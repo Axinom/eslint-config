@@ -116,7 +116,7 @@ module.exports = {
         "no-with": 2,
         "radix": 2,
         "vars-on-top": 0,
-        "wrap-iife": 2,
+        "wrap-iife": [2, "inside"],
         "yoda": [2, "never"],
 
         "strict": [2, "function"],
