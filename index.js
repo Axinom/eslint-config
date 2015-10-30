@@ -148,7 +148,7 @@ module.exports = {
         "camelcase": 2,
         "comma-spacing": 2,
         "comma-style": 2,
-        "func-names": 1,
+        "func-names": 0,
         "func-style": [
             2,
             "declaration"
