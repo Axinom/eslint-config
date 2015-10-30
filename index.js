@@ -188,7 +188,10 @@ module.exports = {
         "space-before-blocks": 2,
         "space-before-function-paren": [
             2,
-            "never"
+            {
+                "anonymous": "always",
+                "named": "never"
+            }
         ],
         "space-before-keywords": 2,
         "space-in-parens": 2,
