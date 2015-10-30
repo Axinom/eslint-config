@@ -2,11 +2,11 @@ module.exports = {
     "ecmaFeatures": {
         "blockBindings": true
     },
-	"env": {
-		"browser": true,
-		"node": true,
-		"es6": true
-	},
+    "env": {
+        "browser": true,
+        "node": true,
+        "es6": true
+    },
     "rules": {
         "comma-dangle": [2, "never"],
         "no-cond-assign": [2, "always"],
