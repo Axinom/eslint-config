@@ -154,6 +154,7 @@ module.exports = {
             "declaration"
         ],
         "key-spacing": 2,
+        "keyword-spacing": 2,
         "new-cap": 2,
         "new-parens": 2,
         "no-array-constructor": 2,
@@ -184,7 +185,6 @@ module.exports = {
             2,
             "always"
         ],
-        "space-after-keywords": 2,
         "space-before-blocks": 2,
         "space-before-function-paren": [
             2,
@@ -193,10 +193,8 @@ module.exports = {
                 "named": "never"
             }
         ],
-        "space-before-keywords": 2,
         "space-in-parens": 2,
         "space-infix-ops": 2,
-        "space-return-throw-case": 2,
         "space-unary-ops": 2,
         "spaced-comment": 2
     }
